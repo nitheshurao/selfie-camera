@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A3811217-86D9-B66E-B799-80B9F242C96E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Selfy/Seflie.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Selfy/Seflie.cs" Line="11" Column="23" />
+      <File FileName="Assets/Scenes/Selfy/San.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa124dc4-f297-4823-9f26-2cfb721dda94" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
